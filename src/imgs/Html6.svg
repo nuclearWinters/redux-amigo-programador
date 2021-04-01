@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="Html6.svg"
+   id="svg398"
+   version="1.1"
+   viewBox="0 0 6 6"
+   height="6"
+   width="6">
+  <defs
+     id="defs402" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg398"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="2.8855097"
+     inkscape:cx="3.0978403"
+     inkscape:zoom="83.014336"
+     showgrid="false"
+     id="namedview400"
+     inkscape:window-height="773"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title390">html [#124]</title>
+  <g
+     transform="matrix(0.3,0,0,0.3,0.3,0)"
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="Page-1">
+    <g
+       fill="#000000"
+       transform="translate(-61,-7639)"
+       id="Dribbble-Light-Preview">
+      <g
+         transform="translate(56,160)"
+         id="icons">
+        <path
+           id="html-[#124]"
+           d="m 19.435,7485 h -8.623 l 0.206,2 h 8.212 c -0.12,1.752 -0.484,5.464 -0.618,7.153 l -4.613,1.298 v 0 l -0.01,0.01 -4.615,-1.624 L 9.058,7490 h 2.262 l 0.16,2.063 2.513,0.937 H 14 l 2.51,-0.9 0.258,-3.1 h -7.81 c -0.038,-0.401 -0.524,-5.608 -0.608,-6 h 11.288 c -0.063,0.66 -0.127,1.338 -0.202,2 z M 5,7479 6.638,7497.148 13.99,7499 21.36,7497.111 23,7479 Z"
+           fill="#444444" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata396">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="en"
+         dc:format="image/svg+xml"
+         dc:date="2017-09-15"
+         dc:publisher="Iconscout"
+         dc:description="html"
+         dc:title="html"
+         about="https://iconscout.com/legal#licenses">
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>Alexandru Stoica</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>html [#124]</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

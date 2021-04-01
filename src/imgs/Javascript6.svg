@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="Javascript6.svg"
+   id="svg875"
+   viewBox="0 0 6 6"
+   height="6"
+   width="6"
+   version="1.1">
+  <defs
+     id="defs879" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg875"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="2.7486106"
+     inkscape:cx="2.8243348"
+     inkscape:zoom="70.25"
+     showgrid="false"
+     id="namedview877"
+     inkscape:window-height="773"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke-width:0.234046"
+     id="path871"
+     d="M 0.35023401,0 0.8316664,5.4001406 2.992144,6 5.1584731,5.3994385 5.6403732,2.3401e-4 H 0.35 Z m 1.99594339,1.3984242 -0.095725,1.0393977 2.2634578,2.34e-4 -0.016149,0.1778749 -0.1556406,1.7436418 -0.00983,0.111874 -1.3584023,0.3765798 -1.35653,-0.3765798 -0.092682,-1.0398659 h 0.6646903 l 0.047277,0.5282416 0.7381806,0.198939 0.7386489,-0.1994071 0.076767,-0.8589484 -2.2634577,-2.34e-4 0.016149,-0.1778749 0.1556405,-1.7436418 0.048916,-0.48821979 h 2.6416758 l 0.03066,0.37400539 0.094321,1.0422063 H 3.84922 L 3.7879,1.4227649 3.1117414,1.3820409 H 2.9912078 v -9.346e-4 l -0.6447964,0.017318 z"
+     fill="#444444" />
+  <metadata
+     id="metadata873">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="en"
+         dc:format="image/svg+xml"
+         dc:date="2017-09-24"
+         dc:publisher="Iconscout"
+         dc:description="javascript"
+         dc:title="javascript"
+         about="https://iconscout.com/legal#licenses">
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>Vorillaz</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

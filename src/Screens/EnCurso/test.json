@@ -1,0 +1,190 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dsm6oIGhCkTg5wpOcljzoZcRrOY\"",
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vyyWLzT1yZham-re0TF1QbiwRyE\"",
+      "id": "UExoZjJxVkdSSmF0dGpKdFNQU3VUTHVib0RJSVdLSkZIaS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-04-23T06:05:31.000Z",
+        "channelId": "UC6j9EOMNbfpmBOzUAeqIv_A",
+        "title": "Modulo 1: Opción de Desarrollo en Safari",
+        "description": "En este modulo aprenderas a activar la opción de desarrollo de Safari",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VmUhCDtN7nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VmUhCDtN7nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VmUhCDtN7nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VmUhCDtN7nw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VmUhCDtN7nw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Armando Rueda",
+        "playlistId": "PLhf2qVGRJattjJtSPSuTLuboDIIWKJFHi",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VmUhCDtN7nw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g07XIguZ0wKtg_3H8lLXz6Is8Kk\"",
+      "id": "UExoZjJxVkdSSmF0dGpKdFNQU3VUTHVib0RJSVdLSkZIaS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-04-23T06:06:04.000Z",
+        "channelId": "UC6j9EOMNbfpmBOzUAeqIv_A",
+        "title": "Modulo 2: Usar TextEdit para crear una página en Safari",
+        "description": "En este modulo usaras el programa TextEdit para crear una página en Safari",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JndOVlASUao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JndOVlASUao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JndOVlASUao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JndOVlASUao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JndOVlASUao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Armando Rueda",
+        "playlistId": "PLhf2qVGRJattjJtSPSuTLuboDIIWKJFHi",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JndOVlASUao"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Kx-jeIpFqlG5RAqhcXdKGSP_F3c\"",
+      "id": "UExoZjJxVkdSSmF0dGpKdFNQU3VUTHVib0RJSVdLSkZIaS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-04-23T06:06:15.000Z",
+        "channelId": "UC6j9EOMNbfpmBOzUAeqIv_A",
+        "title": "Modulo 3: HTML, el lenguaje de programación de nuestra página",
+        "description": "En este modulo entenderás que los navegadores son capaces de entender HTML, y que nuestro archivo de texto fue traducido a este lenguaje",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jb4pojyjC8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jb4pojyjC8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jb4pojyjC8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jb4pojyjC8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jb4pojyjC8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Armando Rueda",
+        "playlistId": "PLhf2qVGRJattjJtSPSuTLuboDIIWKJFHi",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jb4pojyjC8E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WBSyuQv8wsLaOJD008BgPzyPfwI\"",
+      "id": "UExoZjJxVkdSSmF0dGpKdFNQU3VUTHVib0RJSVdLSkZIaS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-04-23T06:06:34.000Z",
+        "channelId": "UC6j9EOMNbfpmBOzUAeqIv_A",
+        "title": "Modulo 4: Instalación de VS Code",
+        "description": "En este modulo se instala Visual Studio Code, un editor de texto especial para hacer código",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p_yScGkDpjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p_yScGkDpjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p_yScGkDpjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p_yScGkDpjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p_yScGkDpjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Armando Rueda",
+        "playlistId": "PLhf2qVGRJattjJtSPSuTLuboDIIWKJFHi",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p_yScGkDpjA"
+        }
+      }
+    }
+  ]
+}

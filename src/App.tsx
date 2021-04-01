@@ -1,26 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Router } from "@reach/router";
+import { Home } from "./Screens/Home";
+import { TechTree } from "./Screens/TechTree";
+import { Provider } from "react-redux";
+import { store } from "./Redux";
+import { EnCurso } from "./Screens/EnCurso";
+import { useUserQuery } from "./Hooks";
 
-function App() {
+const AppRedux = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider store={store}>
+      <App />
+    </Provider>
   );
-}
+};
 
-export default App;
+const App = () => {
+  const { loading } = useUserQuery();
+  if (loading) {
+    return <div>Loading!!!</div>;
+  }
+  return (
+    <Router>
+      <Home path="/" />
+      <TechTree path="/techtree" />
+      <EnCurso path="/encurso" />
+    </Router>
+  );
+};
+
+export default AppRedux;

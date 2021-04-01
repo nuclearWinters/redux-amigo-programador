@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="Mongodb6.svg"
+   id="svg4063"
+   viewBox="0 0 6 6"
+   height="6"
+   width="6"
+   version="1.1">
+  <defs
+     id="defs4067" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4063"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="3.0506552"
+     inkscape:cx="3.0749663"
+     inkscape:zoom="73.75"
+     showgrid="false"
+     id="namedview4065"
+     inkscape:window-height="776"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke-width:0.19676"
+     id="path4059"
+     d="M 4.3298771,2.6611792 A 2.6883321,2.6883321 0 0 0 4.2497951,2.2092215 C 4.1268201,1.743097 3.9219931,1.2968453 3.6331491,0.9100151 A 3.2622811,3.2622811 0 0 0 3.3785421,0.6085787 c -0.09366,-0.098183 -0.197547,-0.1882993 -0.262871,-0.3104873 -0.04132,-0.077327 -0.08067,-0.1556371 -0.120811,-0.2335541 -5.9e-4,0.024398 -0.0022,0.048797 -0.0022,0.072998 0,-0.024398 0.0018,-0.048797 0.0022,-0.073195 L 2.9692811,0 c -0.0043,0.014757 -0.0071,0.019873 -0.0071,0.025382 -0.0033,0.1269103 -0.07536,0.2130911 -0.164885,0.293566 -0.100741,0.09051 -0.194596,0.1886928 -0.291402,0.2835312 0.0033,0.00433 0.0071,0.00866 0.01082,0.012986 -0.0037,-0.00433 -0.0075,-0.00846 -0.01082,-0.012986 C 2.2180515,0.9810455 1.9644279,1.3857808 1.815087,1.8400997 A 2.8906014,2.8906014 0 0 0 1.7133621,2.2446383 c -0.050961,0.2914016 -0.074572,0.5745392 -0.058241,0.8696793 0.00905,0.163114 0.037581,0.3236702 0.080081,0.4816685 0.1544566,0.573949 0.468092,1.0499115 0.896833,1.4544501 0.07969,0.075162 0.165671,0.143438 0.248901,0.2150587 l 5.9e-4,-0.00216 -5.9e-4,0.00216 0.03679,0.1263199 0.03424,0.195973 0.01633,0.2044336 c -1.96e-4,0.041516 -0.002,0.083229 5.91e-4,0.1245491 5.9e-4,0.010625 0.01456,0.020463 0.02223,0.030695 l 7.87e-4,-0.00118 -7.87e-4,0.00118 0.06946,0.024398 0.07221,0.028137 a 63.480685,63.480685 0 0 0 -0.0124,-0.1818063 l -5.9e-4,-0.1790516 -0.0041,0.00413 0.0041,-0.00413 0.02499,-0.2727094 0.0181,-0.059422 0.05175,-0.091887 c 0.06395,-0.051551 0.132616,-0.098183 0.191054,-0.1554404 0.105463,-0.1036926 0.21073,-0.2085656 0.304978,-0.3220962 A 2.4189677,2.4189677 0 0 0 4.0231281,4.2572965 C 4.2637651,3.7671673 4.3751321,3.220568 4.3308611,2.6755427 l -0.0012,-0.01456 z"
+     fill="#444444" />
+  <metadata
+     id="metadata4061">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="en"
+         dc:format="image/svg+xml"
+         dc:date="2017-09-24"
+         dc:publisher="Iconscout"
+         dc:description="mongodb"
+         dc:title="mongodb"
+         about="https://iconscout.com/legal#licenses">
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>Vorillaz</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
